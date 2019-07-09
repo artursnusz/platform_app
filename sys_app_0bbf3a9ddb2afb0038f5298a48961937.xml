@@ -23,14 +23,14 @@
         <sys_created_by>artur.snusz</sys_created_by>
         <sys_created_on>2019-07-09 08:34:24</sys_created_on>
         <sys_id>0bbf3a9ddb2afb0038f5298a48961937</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_updated_by>artur.snusz</sys_updated_by>
-        <sys_updated_on>2019-07-09 08:39:04</sys_updated_on>
+        <sys_updated_on>2019-07-09 08:42:58</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_aits2_test_accep.user" name="x_aits2_test_accep.user">53bf3a95db6afb0038f5298a489619c3</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
 </record_update>
